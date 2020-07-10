@@ -2,5 +2,5 @@
 /shelf/
 /workspace.xml/
 inspectionProfiles/
-*.xml
+*.xml/
 *.iml
