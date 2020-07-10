@@ -24,15 +24,16 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:github/master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77811b3c-7669-47bd-8fe2-820e23335f3e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/.idea/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,7 +227,21 @@
       <option name="project" value="LOCAL" />
       <updated>1594388539533</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Git Ypdated in Pychrm">
+      <created>1594390899093</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594390899093</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Git Ypdated in Pychrm 4444444">
+      <created>1594391037371</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594391037371</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,7 +255,15 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="github/master" />
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="date">
+                    <value>
+                      <list>
+                        <option value="1593786053844" />
+                        <option value="" />
                       </list>
                     </value>
                   </entry>
@@ -251,10 +274,27 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update Git Ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Git Ignore" />
+    <MESSAGE value="Git Ypdated in Pychrm" />
+    <MESSAGE value="Git Ypdated in Pychrm 4444444" />
+    <option name="LAST_COMMIT_MESSAGE" value="Git Ypdated in Pychrm 4444444" />
   </component>
   <component name="WindowStateProjectService">
     <state x="309" y="42" key="#Inspections" timestamp="1594101908497">
@@ -289,22 +329,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="480" y="62" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1594359725785" />
-    <state width="1345" height="517" key="GridCell.Tab.0.bottom" timestamp="1594388791643">
+    <state width="1345" height="517" key="GridCell.Tab.0.bottom" timestamp="1594391264558">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="517" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594388791643" />
-    <state width="1345" height="517" key="GridCell.Tab.0.center" timestamp="1594388791643">
+    <state width="1345" height="517" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594391264558" />
+    <state width="1345" height="517" key="GridCell.Tab.0.center" timestamp="1594391264558">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="517" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594388791643" />
-    <state width="1345" height="517" key="GridCell.Tab.0.left" timestamp="1594388791642">
+    <state width="1345" height="517" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594391264558" />
+    <state width="1345" height="517" key="GridCell.Tab.0.left" timestamp="1594391264558">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="517" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594388791642" />
-    <state width="1345" height="517" key="GridCell.Tab.0.right" timestamp="1594388791643">
+    <state width="1345" height="517" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594391264558" />
+    <state width="1345" height="517" key="GridCell.Tab.0.right" timestamp="1594391264558">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="517" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594388791643" />
+    <state width="1345" height="517" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594391264558" />
     <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1591761838285">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -321,14 +361,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1591761838285" />
+    <state x="129" y="55" key="MergeDialog" timestamp="1594391127511">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="55" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1594391127511" />
+    <state x="321" y="125" key="MultipleFileMergeDialog" timestamp="1594391127517">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="321" y="125" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1594391127517" />
     <state x="184" y="10" width="998" height="709" key="SettingsEditor" timestamp="1594203274495">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="10" width="998" height="709" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1594203274495" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1594363414745">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1594391160395">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1594363414745" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1594391160395" />
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1591761837297">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
