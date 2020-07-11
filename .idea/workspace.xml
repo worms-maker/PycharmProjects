@@ -31,8 +31,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77811b3c-7669-47bd-8fe2-820e23335f3e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorePython/ControlStatement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorePython/Operator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/NumbeWithTypeCast.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorePython/Swap.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorePython/Swap.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +71,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Python.Strings">
+  <component name="RunManager" selected="Python.Operator">
     <configuration name="NumbeWithTypeCast" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,6 +135,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Operator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CorePython" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CorePython/Operator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,27 +169,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\mr.DJ\PycharmProjects\CorePython\Strings.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Swap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CorePython" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CorePython/Swap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,10 +200,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Operator" />
         <item itemvalue="Python.Strings" />
         <item itemvalue="Python.VariableFact" />
         <item itemvalue="Python.NumbeWithTypeCast" />
-        <item itemvalue="Python.NumberMath" />
         <item itemvalue="Python.NumberMath" />
       </list>
     </recent_temporary>
@@ -261,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594391531153</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="jhvjhvhbjhvjhvjhfyjfhmgjfuk">
+      <created>1594439601310</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1594439601310</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -317,7 +327,8 @@
     <MESSAGE value="Git Ypdated in Pychrm 4444444 sdkjfshfkjshfkjsbjs" />
     <MESSAGE value="Git Ypdated in Pychrm 4444444 sdkjfshfkjshfkjsbjssfdsf" />
     <MESSAGE value="* xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="* xml" />
+    <MESSAGE value="jhvjhvhbjhvjhvjhfyjfhmgjfuk" />
+    <option name="LAST_COMMIT_MESSAGE" value="jhvjhvhbjhvjhvjhfyjfhmgjfuk" />
   </component>
   <component name="WindowStateProjectService">
     <state x="309" y="42" key="#Inspections" timestamp="1594101908497">
@@ -352,22 +363,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="480" y="62" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1594359725785" />
-    <state width="1345" height="517" key="GridCell.Tab.0.bottom" timestamp="1594391519037">
+    <state width="1345" height="175" key="GridCell.Tab.0.bottom" timestamp="1594443054130">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="517" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594391519037" />
-    <state width="1345" height="517" key="GridCell.Tab.0.center" timestamp="1594391519037">
+    <state width="1345" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594443054130" />
+    <state width="1345" height="175" key="GridCell.Tab.0.center" timestamp="1594443054130">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="517" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594391519037" />
-    <state width="1345" height="517" key="GridCell.Tab.0.left" timestamp="1594391519037">
+    <state width="1345" height="175" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594443054130" />
+    <state width="1345" height="175" key="GridCell.Tab.0.left" timestamp="1594443054130">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="517" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594391519037" />
-    <state width="1345" height="517" key="GridCell.Tab.0.right" timestamp="1594391519037">
+    <state width="1345" height="175" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594443054130" />
+    <state width="1345" height="175" key="GridCell.Tab.0.right" timestamp="1594443054130">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="517" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594391519037" />
+    <state width="1345" height="175" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594443054130" />
     <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1591761838285">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -392,14 +403,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="321" y="125" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1594391127517" />
-    <state x="184" y="10" width="998" height="709" key="SettingsEditor" timestamp="1594203274495">
+    <state x="184" y="10" width="998" height="709" key="SettingsEditor" timestamp="1594442004423">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="10" width="998" height="709" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1594203274495" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1594391537291">
+    <state x="184" y="10" width="998" height="709" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1594442004423" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1594439608917">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1594391537291" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1594439608917" />
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1591761837297">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -416,9 +427,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="225" key="git4idea.rebase.GitRebaseDialog/0.0.1366.728@0.0.1366.728" timestamp="1594363274750" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1594363338087">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1594442030612">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1594363338087" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1594442030612" />
   </component>
 </project>

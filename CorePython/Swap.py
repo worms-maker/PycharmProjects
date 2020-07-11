@@ -8,7 +8,7 @@ y = 5;
 # by using Python Simple Method
 
 print(x, y)
-x, y=x, y
+x, y = x, y
 print(x, y)
 
 print("\nPython Swap x :", x)
